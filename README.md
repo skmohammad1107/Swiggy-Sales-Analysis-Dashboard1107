@@ -20,4 +20,4 @@ Data Source: swiggy.csv (Included in repository)
 Tools Used: Excel / Power BI (Advanced Data Modeling, DAX, and Data Cleaning)
 
 # 📸 Dashboard Preview
-![Swiggy Dashboard] https://github.com/skmohammad1107/Swiggy-Sales-Analysis Dashboard1107/tree/main
+![Swiggy Dashboard] https://github.com/skmohammad1107/SwiggySalesAnalysisDashboard1107/tree/main
